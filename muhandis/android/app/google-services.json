@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50798018907",
+    "project_id": "muhandis-6b8c4",
+    "storage_bucket": "muhandis-6b8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50798018907:android:62668aab686df0a5049a7e",
+        "android_client_info": {
+          "package_name": "com.example.muhandis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgYBPb956mTh6OfULIn_98U4Pgo0bcvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
